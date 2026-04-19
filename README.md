@@ -1,9 +1,31 @@
-Project : TO DO Mobile Application
-<br>
-Stack: Flutter
-<br>
-Concepts: Flutter widgets  ,Dart ,State Management with Provider 
-<br>
-https://github.com/user-attachments/assets/013f9a5a-b5da-41ac-bd2d-28912a9b8641
+#  TO DO Mobile Application
+##  Overview
+A simple and efficient To-Do mobile app built using Flutter and Dart.
+## Tech Stack
+- Flutter
+- Dart
+- Provider (State Management)
+## Features
+- Add tasks
+- Delete tasks
+- Mark tasks complete
+- Clean UI
+## Screenshots
+
+##  Demo
+
+## Project Structure
+- lib/
+- models/
+- providers/
+- screens/
+- widgets/
+## Installation
+```bash
+git clone https://github.com/your-repo
+cd to_do_app
+flutter pub get
+flutter run
+
 
 
