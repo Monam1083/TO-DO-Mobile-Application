@@ -10,8 +10,6 @@ A simple and efficient To-Do mobile app built using Flutter and Dart.
 - Delete tasks
 - Mark tasks complete
 - Clean UI
-## Screenshots
-![Uploading Screenshot 2026-04-19 212722.png…]()
 ##  Demo
 https://github.com/user-attachments/assets/922a1068-f016-45f4-9d6b-3556584fe36b
 ## Project Structure
