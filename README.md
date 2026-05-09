@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/922a1068-f016-45f4-9d6b-3556584fe36b
 - widgets/
 ## Installation
 ```bash
-git clone https://github.com/your-repo
+git clone https://github.com/Monam1083/TO-DO-Mobile-Application
 cd to_do_app
 flutter pub get
 flutter run
