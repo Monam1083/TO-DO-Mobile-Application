@@ -1,0 +1,6 @@
+*.cpp linguist-vendored=true
+*.c linguist-vendored=true
+*.h linguist-vendored=true
+*.cc linguist-vendored=true
+*.dart linguist-detectable=true
+lib/** linguist-language=Dart
