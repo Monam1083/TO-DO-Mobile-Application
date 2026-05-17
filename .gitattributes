@@ -1,6 +1,19 @@
+# Vendor all native code
 *.cpp linguist-vendored=true
 *.c linguist-vendored=true
 *.h linguist-vendored=true
 *.cc linguist-vendored=true
+*.cmake linguist-vendored=true
+CMakeLists.txt linguist-vendored=true
+
+# Vendor platform folders entirely
+android/** linguist-vendored=true
+ios/** linguist-vendored=true
+linux/** linguist-vendored=true
+macos/** linguist-vendored=true
+windows/** linguist-vendored=true
+web/** linguist-vendored=true
+
+# Force Dart as primary
 *.dart linguist-detectable=true
 lib/** linguist-language=Dart
